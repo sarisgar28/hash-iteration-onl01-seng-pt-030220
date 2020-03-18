@@ -8,5 +8,6 @@
  }
 
 def select_winner(passengers)
- 
+  suite.each do |name,suite|
+    
 end
